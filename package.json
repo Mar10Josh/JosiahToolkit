@@ -1,0 +1,25 @@
+{
+  "name": "josiahtoolkit",
+  "version": "1.0.0",
+  "description": "Josiah Toolkit is another pack of functions for Javascript!",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mar10Josh/JosiahToolkit.git"
+  },
+  "keywords": [
+    "toolkit"
+  ],
+  "author": "Josiah",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Mar10Josh/JosiahToolkit/issues"
+  },
+  "homepage": "https://github.com/Mar10Josh/JosiahToolkit#readme",
+  "dependencies": {
+    "trollbox-bot": "^1.0.6"
+  }
+}
